@@ -6,15 +6,6 @@ $students = array (
   array("Paolo", "Neri", array( 8, 8, 8, 8, 8 ,8)),
   array("Pietro", "Verdi", array( 7, 4, 8, 9 ,8 ,7)),
 );
-// foreach ($students as $student) {
-//   $somma=0;
-//     foreach ($student[2] as $voti) {
-//       $somma += $voti;
-//     }
-//   $somma = $somma / 6;
-//   array_push($student, $somma);
-//   var_dump($student);
-// }
 ?>
 <!DOCTYPE html>
 <html lang="en">
